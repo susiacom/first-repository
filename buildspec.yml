@@ -1,0 +1,4 @@
+AWS_DEFAULT_REGION : us-west-2
+IMAGE_REPO_NAME : csw-img-repo
+IMAGE_TAG : csw-test
+AWS_ACCOUNT_ID : 739243157363
